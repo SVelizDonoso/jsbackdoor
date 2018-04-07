@@ -2,8 +2,7 @@
 <img src="https://image.ibb.co/kbjzRc/jsbackdoor.png" >
 
 # Descripción
-
-
+Script que por medio de un XSS permite la ejecución remota de JavaScript utilizando un Socket Server. El script es muy simple y sencillo, especial para principiantes que deseen aprender más sobre Python y ataques del lado del cliente.
 
 # Instalación
 ```sh
